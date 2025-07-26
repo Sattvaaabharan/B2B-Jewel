@@ -87,6 +87,11 @@ Folder Highlights:
 /client/theme.js       - Royal Chakra UI theme customization
 /client/App.js         - Router & route guards
 
+
+Run locally:
+PS C:\Users\admin\Desktop\B2B Jewelry\jewelry-b2b-platform\client> npm install -g serve
+>> serve -s build
+
 Contact:
 --------
 
