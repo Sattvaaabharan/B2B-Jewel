@@ -2,7 +2,7 @@
 # Auto add, commit, and push changes to Git
 
 # Navigate to your project folder
-Set-Location "PS C:\Users\admin\Desktop\B2B Jewelry"
+Set-Location "C:\Users\admin\Desktop\B2B Jewelry"
 
 # Get current branch name
 $branch = git rev-parse --abbrev-ref HEAD
